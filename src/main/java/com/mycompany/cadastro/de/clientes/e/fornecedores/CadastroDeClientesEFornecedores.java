@@ -11,6 +11,8 @@ package com.mycompany.cadastro.de.clientes.e.fornecedores;
 public class CadastroDeClientesEFornecedores {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        FrmPrincipal frmPrincipal = new FrmPrincipal();
+        frmPrincipal.setLocationRelativeTo(null);
+        frmPrincipal.setVisible(true);
     }
 }
