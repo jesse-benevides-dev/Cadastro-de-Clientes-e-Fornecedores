@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 /home/jesse/Documentos/DEV/Cadastro-de-Clientes-e-Fornecedores/src/main/java/com/mycompany/cadastro/de/clientes/e/fornecedores/CadastroDeClientesEFornecedores.java
 /home/jesse/Documentos/DEV/Cadastro-de-Clientes-e-Fornecedores/src/main/java/com/mycompany/cadastro/de/clientes/e/fornecedores/Cliente.java
 /home/jesse/Documentos/DEV/Cadastro-de-Clientes-e-Fornecedores/src/main/java/com/mycompany/cadastro/de/clientes/e/fornecedores/Fornecedor.java
@@ -12,3 +13,19 @@
 /home/jesse/Documentos/DEV/Cadastro-de-Clientes-e-Fornecedores/src/main/java/com/mycompany/cadastro/de/clientes/e/fornecedores/ModeloTabelaPessoa.java
 /home/jesse/Documentos/DEV/Cadastro-de-Clientes-e-Fornecedores/src/main/java/com/mycompany/cadastro/de/clientes/e/fornecedores/OperacaoCadastro.java
 /home/jesse/Documentos/DEV/Cadastro-de-Clientes-e-Fornecedores/src/main/java/com/mycompany/cadastro/de/clientes/e/fornecedores/Pessoa.java
+=======
+/home/jesse/Documentos/DEV/Cadastro-de-Clientes-e-Fornecedores/src/main/java/gui_cadastro_pessoas/CadastroPessoas.java
+/home/jesse/Documentos/DEV/Cadastro-de-Clientes-e-Fornecedores/src/main/java/gui_cadastro_pessoas/Cliente.java
+/home/jesse/Documentos/DEV/Cadastro-de-Clientes-e-Fornecedores/src/main/java/gui_cadastro_pessoas/Fornecedor.java
+/home/jesse/Documentos/DEV/Cadastro-de-Clientes-e-Fornecedores/src/main/java/gui_cadastro_pessoas/FrmCadastroCliente.java
+/home/jesse/Documentos/DEV/Cadastro-de-Clientes-e-Fornecedores/src/main/java/gui_cadastro_pessoas/FrmCadastroFornecedor.java
+/home/jesse/Documentos/DEV/Cadastro-de-Clientes-e-Fornecedores/src/main/java/gui_cadastro_pessoas/FrmCadastroPessoa.java
+/home/jesse/Documentos/DEV/Cadastro-de-Clientes-e-Fornecedores/src/main/java/gui_cadastro_pessoas/FrmCliente.java
+/home/jesse/Documentos/DEV/Cadastro-de-Clientes-e-Fornecedores/src/main/java/gui_cadastro_pessoas/FrmFornecedor.java
+/home/jesse/Documentos/DEV/Cadastro-de-Clientes-e-Fornecedores/src/main/java/gui_cadastro_pessoas/FrmListagem.java
+/home/jesse/Documentos/DEV/Cadastro-de-Clientes-e-Fornecedores/src/main/java/gui_cadastro_pessoas/FrmPessoa.java
+/home/jesse/Documentos/DEV/Cadastro-de-Clientes-e-Fornecedores/src/main/java/gui_cadastro_pessoas/FrmPrincipal.java
+/home/jesse/Documentos/DEV/Cadastro-de-Clientes-e-Fornecedores/src/main/java/gui_cadastro_pessoas/ModeloTabelaPessoa.java
+/home/jesse/Documentos/DEV/Cadastro-de-Clientes-e-Fornecedores/src/main/java/gui_cadastro_pessoas/OperacaoCadastro.java
+/home/jesse/Documentos/DEV/Cadastro-de-Clientes-e-Fornecedores/src/main/java/gui_cadastro_pessoas/Pessoa.java
+>>>>>>> Stashed changes

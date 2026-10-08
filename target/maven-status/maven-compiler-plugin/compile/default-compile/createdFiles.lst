@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 com/mycompany/cadastro/de/clientes/e/fornecedores/Pessoa.class
 com/mycompany/cadastro/de/clientes/e/fornecedores/FrmPessoa.class
 com/mycompany/cadastro/de/clientes/e/fornecedores/Cliente.class
@@ -13,3 +14,20 @@ com/mycompany/cadastro/de/clientes/e/fornecedores/FrmCadastroPessoa.class
 com/mycompany/cadastro/de/clientes/e/fornecedores/CadastroDeClientesEFornecedores.class
 com/mycompany/cadastro/de/clientes/e/fornecedores/OperacaoCadastro.class
 com/mycompany/cadastro/de/clientes/e/fornecedores/FrmListagem$1.class
+=======
+gui_cadastro_pessoas/ModeloTabelaPessoa.class
+gui_cadastro_pessoas/FrmCadastroFornecedor.class
+gui_cadastro_pessoas/FrmListagem$1.class
+gui_cadastro_pessoas/FrmCliente.class
+gui_cadastro_pessoas/Fornecedor.class
+gui_cadastro_pessoas/FrmPessoa.class
+gui_cadastro_pessoas/FrmFornecedor.class
+gui_cadastro_pessoas/CadastroPessoas.class
+gui_cadastro_pessoas/Cliente.class
+gui_cadastro_pessoas/OperacaoCadastro.class
+gui_cadastro_pessoas/FrmCadastroPessoa.class
+gui_cadastro_pessoas/Pessoa.class
+gui_cadastro_pessoas/FrmListagem.class
+gui_cadastro_pessoas/FrmCadastroCliente.class
+gui_cadastro_pessoas/FrmPrincipal.class
+>>>>>>> Stashed changes
